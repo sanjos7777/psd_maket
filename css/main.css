@@ -1,0 +1,50 @@
+header{ background: rgb(68,81,98);
+		color: white;	
+		padding:7px;
+		
+		}
+.bg{ /*фон страницы*/
+	background: #f5f5f5
+}
+
+.half /*половина страницы*/
+{	width: 50%;
+}
+.halfleft 
+{	width: 50%;
+	float: left;
+}
+.full
+{width: 100%}
+.layer2 /*первое изображение*/
+{
+	float: right;
+	background: #fff;
+	margin: 15px;
+}
+.layer3 {
+    float: right; /* Обтекание по правому краю */
+    width: 45%; /* Ширина блока */
+}
+.layer4{
+	margin: 15px;
+	float: right; 
+ background: rgb(68,81,98);
+}
+.li{padding: 7px}
+
+.review
+{   
+	background: #ebebeb;
+	width:70%;
+
+}
+.round
+{
+	border-radius: 100px;
+	width: 100px;
+	height: 100px
+	border: 2px;
+	background: rgb(68,81,98)
+	;
+}
