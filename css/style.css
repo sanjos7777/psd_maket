@@ -1,0 +1,19 @@
+.header {
+	background: rgb(68,81,98);
+	color: white
+}
+.imgw {
+	background: #fff;
+	margin: 20px;
+	float: right;
+
+}
+.imgabout {
+	background: rgb(68,81,98);
+	margin: 20px;
+	float: right;
+}
+
+.h3center {
+	padding-left: 35%;
+}

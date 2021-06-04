@@ -1,8 +1,4 @@
-header{ background: rgb(68,81,98);
-		color: white;	
-		padding:7px;
-		
-		}
+
 .bg{ /*фон страницы*/
 	background: #f5f5f5
 }
@@ -27,7 +23,7 @@ header{ background: rgb(68,81,98);
     width: 45%; /* Ширина блока */
 }
 .layer4{
-	margin: 15px;
+	
 	float: right; 
  background: rgb(68,81,98);
 }
