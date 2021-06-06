@@ -1,7 +1,20 @@
+h3 {
+	margin: 5 5%;
+	 }
+.main {
+	color: rgb(68,81,98);
+	background: #f5f5f5;
+}
+
+.head3 {
+margin-right: auto;
+margin-left: auto;
+}	 
 .header {
 	background: rgb(68,81,98);
 	color: white
 }
+
 .imgw {
 	background: #fff;
 	margin: 20px;
@@ -14,6 +27,65 @@
 	float: right;
 }
 
-.h3center {
-	padding-left: 35%;
+.imgscreenshot {
+	background: rgb(68,81,98);
+	margin: 5px;
+}
+
+.flexscreenshot {
+
+	display: flex;
+	justify-content: space-around;
+}
+.paddingscreenshot {
+	padding-left: 25px
+}
+
+.marginscreenshot {
+	margin-top: 10px;
+}
+.igmreview {
+	background: rgb(68,81,98);
+	margin-top:5px;
+	border-radius: 100px;
+	}
+
+.review
+{   
+	background: #ebebeb;
+	margin-top:5px;
+}
+
+.flexbuy {
+display: flex;
+justify-content: space-around;
+align-items: flex-end;
+margin: 10px;
+}
+
+.buy {
+	width: 95%;
+	margin-left: -10px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+
+.contact {
+	margin-top: 5%;
+}
+
+.forms {
+	margin-top: 15px;
+	border-radius: 5px;
+}
+.footer1 {
+	display: flex;
+	justify-content: center;
+}
+
+.contact1 {
+	margin-top: 15px;
+}
+.center {
+	text-align: center;
 }
